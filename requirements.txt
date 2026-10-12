@@ -1,0 +1,7 @@
+streamlit>=1.50
+requests>=2.31
+networkx>=3.2
+pandas>=2.0
+scipy>=1.11
+pyvis>=0.3.2
+python-docx>=1.1
